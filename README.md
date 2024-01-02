@@ -1,5 +1,7 @@
 # echo-dash-hours
 
+An Amazon Alexa skill that allows Swarthmore students find out opening hours of any building on campus on a certain date.
+
 Instructions for creating a json file containing information on all buildings:
 
 
